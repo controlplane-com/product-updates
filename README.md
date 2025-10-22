@@ -38,7 +38,7 @@ Each release includes:
 
 ## Release Cadence
 
-Major updates are published as they are deployed to or when a target release date is selected.
+Major updates are published as they are deployed or when a target release date is selected.
 
 For any breaking changes, the release will be created early and notifications will be sent directly to customers that are effected.
 
