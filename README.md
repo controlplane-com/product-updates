@@ -33,6 +33,7 @@ Each release includes:
 - **Summary**: Overview of major changes
 - **New Features**: Significant new capabilities added to the platform
 - **Improvements**: Enhancements to existing functionality
+- **Marketplace Templates**: New and updated marketplace templates (databases, providers, and pipelines)
 - **Breaking Changes**: Important changes requiring action (when applicable)
 - **Migration Notes**: Guidance for updating workloads (when applicable)
 
